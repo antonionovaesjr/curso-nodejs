@@ -1,1 +1,1 @@
-# curso-nodejs
+# Curso JS
